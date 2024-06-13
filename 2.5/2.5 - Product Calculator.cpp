@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 /* 2.4.)	Write a statement (or comment) to accomplish each of the following (assume that using declarations have been used for cin, cout, and endl):
         a.	Document that a program calculates the product of three integers.
         b.	Declare the variables x, y, z, and result to be of type int (in separate statements) and initialize each to 0.
@@ -10,6 +7,9 @@ using namespace std;
         f.	Print "The product is " followed by the value of the variable result.
         g.	Return a value from main indicating that the program terminated successfully.
     2.5.)	Using the statements you wrote in Exercise 2.4, write a complete program that calculates and displays the product of three integers. Add comments to the code where appropriate. [Note: You’ll need to write the necessary using declarations or directive.] */
+
+#include <iostream>
+using namespace std;
 
 int main()
 {
