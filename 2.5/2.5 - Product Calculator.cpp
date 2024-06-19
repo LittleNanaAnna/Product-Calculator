@@ -6,7 +6,8 @@
         e.	Compute the product of the three integers contained in variables x, y, and z, and assign the result to the variable result.
         f.	Print "The product is " followed by the value of the variable result.
         g.	Return a value from main indicating that the program terminated successfully.
-    2.5.)	Using the statements you wrote in Exercise 2.4, write a complete program that calculates and displays the product of three integers. Add comments to the code where appropriate. [Note: You’ll need to write the necessary using declarations or directive.] */
+    2.5.)	Using the statements you wrote in Exercise 2.4, write a complete program that calculates and displays the product of three integers. Add comments to the code where appropriate. [Note: You’ll need to write the necessary using declarations or directive.] 
+    Programmer: Anna Le*/
 
 #include <iostream>
 using namespace std;
